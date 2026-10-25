@@ -4,9 +4,7 @@
 
 **Telegram-бот для продавцов FunPay: управляйте аккаунтом прямо из мессенджера**
 
-[![Открыть бота](https://img.shields.io/badge/Открыть_бота-@FusaFP__bot-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/FusaFP_bot)
-[![Поддержка](https://img.shields.io/badge/Поддержка-@umexlol-8A2BE2?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/umexlol)
-![Статус](https://img.shields.io/badge/статус-бета--тест-orange?style=for-the-badge)
+### 🤖 [Открыть бота](https://t.me/FusaFP_bot) &nbsp;•&nbsp; 🆘 [Поддержка](https://t.me/umexlol)
 
 </div>
 
@@ -57,7 +55,7 @@ FusaFP подключается к вашему аккаунту FunPay и пе�
 1. Откройте бота: **[@FusaFP_bot](https://t.me/FusaFP_bot)**
 2. Нажмите **Start** и следуйте подсказкам
 3. Подключите аккаунт FunPay
-4. Откройте «⚙️ Настройки» и настройте бота под себя
+4. Откройте «⚙️ Настройки» и включите нужные уведомления
 
 ## 🔐 Безопасность
 
@@ -81,12 +79,9 @@ FusaFP подключается к вашему аккаунту FunPay и пе�
 
 Нашли баг, есть идея или вопрос? Нам важно ваше мнение, пока бот в бета-тесте.
 
-| Куда | Ссылка |
-|---|---|
-| 🤖 Бот | [@FusaFP_bot](https://t.me/FusaFP_bot) |
-| 🆘 Поддержка | [@umexlol](https://t.me/umexlol) |
-| 🆔 Telegram ID поддержки | `8258970515` |
-| 🐞 Баги и идеи | кнопка «👥 Поддержка» в боте или личное сообщение в поддержку |
+🤖 [Бот](https://t.me/FusaFP_bot)
+
+🆘 [Поддержка](https://t.me/umexlol)
 
 ---
 
